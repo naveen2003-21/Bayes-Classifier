@@ -23,8 +23,8 @@ Output:
 
 ## Program:
 ```
-Developed by: Pranave B
-Reg no: 212221240040
+Developed by: Naveen Kumar A
+Reg no: 212221240032
 ```
 ```
 import numpy as np
